@@ -1,0 +1,22 @@
+
+#black {
+    background-color: black;
+    height: 100px;
+    width: 500px;
+}
+
+#red {
+    background-color: red;
+    height: 100px;
+    width: 500px;
+}
+
+#yellow {
+    background-color: yellow;
+    height: 100px;
+    width: 500px;
+}
+
+body{
+    margin: 0;
+}
